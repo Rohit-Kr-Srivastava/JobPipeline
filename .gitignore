@@ -1,0 +1,5 @@
+.venv
+.env
+
+# User uploads (resumes, etc.)
+/media/
